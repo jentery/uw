@@ -92,11 +92,10 @@ The benefits of this sequence include semi-scaffolded preparation for humanities
 This sequence overlaps the Humanities with work mostly in the Social Sciences. 
 
 * **Critical Technical Practice**: This course introduces you to the fundamentals of critical technical practice and its entanglements with critical making and design. Techniques may include programming (Python), documentation, reflection, user/player testing, scenario prototyping, licensing, hacking, glitching, algorithm audits, and labor assessments. Emphasis is placed on legacies of instrumentalism but also on technical practice as a reflective and diffractive activity. 
-
 * **Ethics and Change**: This course focuses on approaches to ethics, social justice, change, and critique through digital methods. Topics may include digital labor, precarity, land-based pedagogy, attention economics, decolonial computing and archiving, AfroFuturisms, Indigenous Futurisms, carework, feminist media, critical algorithm studies, and intersectional approaches to technologies and networks. Emphasis is placed on interventions (historical and present-day) in technologies of oppression.  
 * **Action Research**: This workshop is an opportunity for you to develop and reflect on your own action research project, in collaboration with a community partner or internship program (where applicable).  
 
-The benefits of this sequence include an semi-scaffolded approach to applied media and justice work. It could also appeal to students who interested in cultural studies, which are increasingly represented within digital humanities research. It requires some investment in the more technical dimensions of digital humanities. 
+The benefits of this sequence include a semi-scaffolded approach to applied media and justice work. It could also appeal to students who are interested in cultural studies, which are increasingly represented within digital humanities research. It requires some investment in the more technical dimensions of digital humanities. 
 
 ### Survey of Methods 
 
@@ -116,7 +115,7 @@ This sequence is anchored in digital studies as a speculative or conjectural pra
 * **Prototyping Pasts and Futures**: This course introduces you to using digital methods to conjecture about the past and future. Emphasis is placed on digital methods as forms of negotiation and as modes of iterative development.   
 * **Project (Ethics and Production)**: This workshop is an opportunity for you to develop a prototyping project and consider its social, cultural, and ethical dimensions. It may be conducted in collaboration with a community partner or internship program (where applicable).  
 
-The benefits of this sequence include, again, flexibility for students, faculty, and staff, as well as in the selection of content. When compared with the Survey of Methods, it requires a minor investment in the more technical dimensions of digital humanities. It could also be taught from a low-tech perspective.  
+The benefits of this sequence include, again, flexibility for students, faculty, and staff and in the selection of content. When compared with the Survey of Methods, it requires a minor investment in the more technical dimensions of digital humanities. It could also be taught from a low-tech perspective.  
 
 ## References
 
