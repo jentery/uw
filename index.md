@@ -38,9 +38,9 @@ So, with my own background and biases in mind, and with an orientation toward pr
 
 But a lot of that doesn't sound very "digital." And I think that's important for humanities work: an instance of digital studies that is culture first, technology second. Still, I might locate the praxis of it all like so (with some apologies for the conspicuous pith): 
 
-* **Critical technical practice (Science and Technology Studies)** (Agre): Identify and intervene in oppressive technologies (including matters of social justice, ethics, trust, and responsibility, while recognizing that "intervention" assumes various modes, from ideation to composition to implementation to community action); 
-* **Reflexive iteration and trial-and-error experimentation (Design Studies)** (Balsamo): Understand design and development as forms of inquiry with palpable contexts of use (comparable to writing or even to moving through an archive); 
-* **Provenance and documentation (History, Textual Studies, and Library and Information Studies)** (Getty): Approach projects from the middle (against hyperbolic rhetorics of innovation and disruption as well as lone male inventor myths);
+* **Critical Technical Practice (Science and Technology Studies)** (Agre): Identify and intervene in oppressive technologies (including matters of social justice, ethics, trust, and responsibility, while recognizing that "intervention" assumes various modes, from ideation to composition to implementation to community action); 
+* **Reflexive Iteration and Trial-and-Error Experimentation (Design Studies)** (Balsamo): Understand design and development as forms of inquiry with palpable contexts of use (comparable to writing or even to moving through an archive); 
+* **Provenance and Documentation (History, Textual Studies, and Library and Information Studies)** (Getty): Approach projects from the middle (against hyperbolic rhetorics of innovation and disruption as well as lone male inventor myths);
 * **Traversal and Transduction (Literary and Media Studies)** (Moulthrop and Grigar; Fuller): Attend to the cultural, social, and aesthetic dimensions of how this becomes that (an ontology of memory, changes, and versions, not storage, originals, and copies); 
 * **Articulation (Cultural Studies)** (Grossberg; Hall; Morris): Bridge macro, meso, and micro levels of interpretation (resisting the close/distant and critique/immersion binaries); and, 
 * **Minimal Computing (Labor Studies)** (Risam; Gil): Refine knowledge amidst an abundance of information and gadgets, including knowing when to "logout" or "unplug," how to avoid scope creep, and why maintenance and carework are fundamental to (and not a lateral consequence of) any project. 
@@ -55,13 +55,13 @@ When I design, develop, and teach my own courses in/around digital studies (e.g.
 
 ## Some Possible Three-Course Sequences 
 
-Ultimately, the granularity of my responses to these questions depends on the courses I am teaching, for whom, and to whom. Still, my experiences in engaging such questions lead me to imagine several three-course, cross-disciplinary sequences in the foundations of the digital humanities. For the purposes of discussion (but not proscription), I've prototyped them below. Pardon the rough edges. 
+Ultimately, the granularity of my responses to these questions depends on the courses I am teaching, for whom, and to whom. Still, my experiences in engaging such questions lead me to imagine several three-course, cross-disciplinary sequences in the foundations of the digital humanities. For the purposes of discussion (but not proscription), I've prototyped them below. Pardon the rough edges; and, to state the obvious, selection of content (e.g., collections, corpora, media, genres, histories,  theories, and case studies) would dramatically affect each of these sequences. 
 
 ### Stewardship 
 
 This sequence overlaps the Humanities with work mostly in Galleries, Libraries, Archives, and Museums (GLAM). 
 
-* **Digitization**: This course introduces you to various 2D and 3D techniques for digitizing materials. Techniques may include encoding (XML), transforming (XSLT), character recognition,  photogrammetry, video and audio recording, cryptography, data modeling, and 2D and 3D scanning. Emphasis is placed on the affordances of digitization for humanities research and its historical, cultural, and political dimensions.  
+* **Digitization**: This course introduces you to various 2D and 3D techniques for digitizing materials. Techniques may include text editing, encoding (XML), transforming (XSLT), character recognition, photogrammetry, video and audio recording, cryptography, data modeling, and 2D and 3D scanning. Emphasis is placed on the affordances of digitization for humanities research and its historical, cultural, and political dimensions. 
 * **Collection**: This course introduces you to various techniques for collecting, preserving, and disseminating digital and digitized materials. Techniques may include cataloging, indexing, searching, metadata, building repositories, infrastructure assessments, simulation, emulation, migration, and computer forensics. Emphasis is placed on stewarding humanities materials as well as stewardship as a social, cultural, and political activity.  
 * **Exhibition**: This course introduces you to various techniques for curating and exhibiting digital and digitized materials. Techniques may include interface and interaction design, narration, databases (SQL), licensing, attribution, and content management (Omeka). Emphasis is placed on matters of access, the cultural dimensions of curation, and the intricacies of representing historical materials and groups. 
 
@@ -73,71 +73,73 @@ The benefits of this sequence include scaffolded preparation for fields in or re
 
 This sequence overlaps the Humanities with work mostly in Computer Science, the Social Sciences, and Information Studies. 
 
-* **Processing**: This course introduces you to using computers to interpret materials. Techniques may include pre-processing data, plain text, the command line (Bash), programming (Python), statistics (R), diffing, text mining, topic modeling, and machine learning. Emphasis is placed on the editorial choices made during processing and understanding how computation affects interpretation. 
+* **Processing**: This course introduces you to using computers to process and interpret materials. Techniques may include pre-processing data, text editing, the command line (Bash), spreadsheets, programming (Python), statistics (R), diffing, text mining, topic modeling, and machine learning. Emphasis is placed on the editorial choices made during processing and understanding how computation affects interpretation. 
 * **Expression**: This course introduces you to expressing materials as data. Techniques may include the command line (Bash), programming (Python and JavaScript), interface and interaction design, and graphical, (geo)spatial, temporal, and sonic expression. Emphasis is placed on data expression as a form of argumentation and social responsibility.  
-* **Analysis**: This course introduces you to interpreting data for the purposes of analysis and publication. Techniques may include macroanalysis, surface reading, close reading, cultural analytics, cinemetrics, and algorhythmics. Emphasis is placed on the combination of qualitative and quantitative methods and the bridging of macro-, meso-, and micro-levels of interpretation.   
+* **Analysis**: This course introduces you to analyzing data for the purposes of disseminating and publishing findings. Techniques may include macroanalysis, surface reading, close reading, cultural analytics, cinemetrics, and algorhythmics. Emphasis is placed on combining qualitative and quantitative methods and bridging macro-, meso-, and micro-levels of interpretation.   
 
 The sequence could build on work by, for instance, [coming soon].
 
-The benefits of this sequence include scaffolded preparation for data- and computation-oriented humanities work and an investment in conducting computational analysis without relying too heavily on tools and templates. It requires significant investment in the more technical dimensions of digital humanities. 
+The benefits of this sequence include semi-scaffolded preparation for data- and computation-oriented humanities work and an investment in conducting computational analysis without relying too heavily on tools and templates. It requires significant investment in the more technical dimensions of digital humanities. 
 
 ### Design and Communication 
 
 This sequence overlaps the Humanities with work mostly in Fine Arts and Engineering.
 
-* **Composition**: This course introduces you to  
-- **Design**: interface, interaction, experience, accessibility 
-- **Experiments**:  (e-lit, net art, design fiction, literary media, book arts)
+* **Composition**: This course introduces you to multimodal composition. Techniques may include writing for the web, visual programming, and the production and post-production of audio, film, images, and text. Emphasis is placed on scholarly publishing and contexts of use and interpretation.  
+- **Design**: This course introduces you to design's role in the scholarly communication process. Techniques may include accessibility as well as graphic, interface, interaction, experience, adversarial, and speculative design. Emphasis is placed on inquiry and cultural practice.   
+- **Experiments**: This course surveys histories of experimental media and their relevance to present-day practice. Areas studied may include electronic literature, net art, design fiction, literary media, book arts, sound and performance art, tactical media, media archaeology, infrastructure studies, and installation work. Emphasis is placed on the importance of media aesthetics to cultural, social, and political practices.  
 
 The sequence could build on work by, for instance, [coming soon].
 
-The benefits of this sequence include scaffolded preparation for ; bridges aesthetics with history and contexts of use; 
+The benefits of this sequence include semi-scaffolded preparation for humanities-based design and communication fields. It could also foreground history in the design and composition process. It requires some investment in the more technical dimensions of digital humanities. 
 
 ### Social Justice 
 
 This sequence overlaps the Humanities with work mostly in the Social Sciences. 
 
-* **Critical Technical Practice**: 
-* **Ethics and Responsibility**: digital ethics (social justice and decolonization) - labour 
-* **Action Research**:  
+* **Critical Technical Practice**: This course introduces you to 
+* **Ethics and Responsibility**: This course introduces you to  digital ethics (social justice and decolonization) - labour 
+* **Action Research**: This workshop is an opportunity for you to develop and reflect your own action research project, in collaboration with a community partner (where applicable). 
 
 The sequence could build on work by, for instance, [coming soon].
 
-The benefits of this sequence include . .  scaffolded preparation for ; appeals to students doing theoretical and justice work; 
+The benefits of this sequence include . .  scaffolded preparation for ; appeals to students doing theoretical and justice work; It requires some investment in the more technical dimensions of digital humanities. 
 
-### Foundations v1
+### Methods 
 
 This sequence is anchored in Digital Humanities as a field. It is methods-forward. 
 
-* **Structuring**: 
-- **Programming**: (from encoding to media archaeology)
-- **Expression and Analysis**: (from to minimal computing)
+* **Remediating and Structuring**: This course introduces you to the fundamentals of remediating materials and structuring data for interpretation in digital humanities. 
+- **Programming and Expression**: This course introduces you to the fundamentals of computer programming and data expression for interpretation in digital humanities.  
+- **Analysis and Ethics**: This course introduces you to the fundamentals of analysis and ethics in digital humanities.  
 
 The sequence could build on work by, for instance, [coming soon].
 
-The benefits of this sequence include . . flexibility for students, faculty, and staff; 
+The benefits of this sequence include . . flexibility for students, faculty, and staff; It requires significant investment in the more technical dimensions of digital humanities. 
 
-### Foundations v2
+### Prototyping v1
 
-This sequence is anchored in the praxis of digital studies or media studies. It is project-forward. 
+This sequence is anchored in the praxis of digital studies or media studies. It is prototype- and project-forward. 
 
-* **Prototyping Pasts**: 
-* **Prototyping Futures**: 
-* **Project (Ethics and Production)s**:   
-
-The sequence could build on work by, for instance, [coming soon].
-
-The benefits of this sequence include . . flexibility for students, faculty, and staff; 
-
-### Foundations v3
-
-* **Survey**: 
-* **Prototyping Pasts and Futures**: 
-* **Project (Ethics and Production)**: 
+* **Prototyping Pasts**: This course introduces you to using digital methods to conjecture about the past. 
+* **Prototyping Futures**: This course introduces you to using digital methods to speculate about the future. 
+* **Project (Ethics and Production)s**: This workshop is an opportunity for you to develop a prototyping project and consider its social, cultural, and ethical dimensions.    
 
 The sequence could build on work by, for instance, [coming soon].
 
-The benefits of this sequence include . . flexibility for students, faculty, and staff; 
+The benefits of this sequence include . . flexibility for students, faculty, and staff; It requires some investment in the more technical dimensions of digital humanities. 
+
+### Prototyping v2 
+
+This sequence blends Methods and Prototyping v1 above.   
+
+* **Survey**: This course surveys . .
+* **Prototyping Pasts and Futures**: This course introduces you to using digital methods to conjecture about the past and future.
+* **Project (Ethics and Production)**: This workshop is an opportunity for you to develop a prototyping project and consider its social, cultural, and ethical dimensions. 
+
+The sequence could build on work by, for instance, [coming soon].
+
+The benefits of this sequence include . . flexibility for students, faculty, and staff; It requires some investment in the more technical dimensions of digital humanities. 
 
 ## References
 
