@@ -1,6 +1,10 @@
 # Locating Praxis in Digital Studies: Designing Courses for Graduate Students 
 
-“Don’t teach skills. Teach competences. . . . Computers can do better things than that.” – Sandy Stone (2007) at the European Graduate School  
+[Simpson Center for the Humanities at UW](https://simpsoncenter.org/calendar?trumbaEmbed=view%3Devent%26eventid%3D127437971) | 26 April 2018 
+
+Jentery Sayers | University of Victoria | [Department of English](https://www.uvic.ca/humanities/english/) | on the traditional territory of the Lkwungen-speaking peoples and the Songhees, Esquimalt, and WSÁNEĆ peoples, whose historical relationships with the land continue to this day
+
+*Don’t teach skills. Teach competences. . . . Computers can do better things than that.* – Sandy Stone (2007) at the European Graduate School  
 
 I've been asked to: 1) outline what humanities graduate students need in terms of digital knowledge for the future, no matter what field they enter following graduation and 2) what might a three-course cross-disciplinary sequence in the foundations of the digital humanities look like.
 
