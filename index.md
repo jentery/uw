@@ -123,10 +123,12 @@ Thank you for your time.
 
 ## References
 
-* *Ada New Media*, (https://adanewmedia.org/). 
-* Agre, Phil (1997) "Toward a Critical Technical Practice: 
-Lessons Learned in Trying to Reform AI," https://web.archive.org/web/20040203070641/http://polaris.gseis.ucla.edu/pagre/critical.html.
-* Ali, Syed Mustafa (2016) "A Brief Introduction to Decolonial Computing," https://bit.ly/2I8pmtP. 
+*Ada New Media*, https://adanewmedia.org/.
+
+Agre, Phil (1997) "Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI," https://web.archive.org/web/20040203070641/http://polaris.gseis.ucla.edu/pagre/critical.html.
+
+Ali, Syed Mustafa (2016) "A Brief Introduction to Decolonial Computing," https://bit.ly/2I8pmtP.
+
 * Aneesh, A. (2006) *Virtual Migration: The Programming of Globalization*, https://www.dukeupress.edu/Virtual-Migration.
 * Anthropy, Anna (2012) *Rise of the Videogame Zinesters*, https://www.sevenstories.com/books/3459-rise-of-the-videogame-zinesters. 
 * Arola, Kristin, Jennifer Sheppard, and Cheryl Ball (2014) *Writer/Designer: A Guide to Making Multimodal Projects*, https://www.macmillanlearning.com/Catalog/product/writerdesigner-firstedition-arola. 
