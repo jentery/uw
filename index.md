@@ -123,7 +123,7 @@ Thank you for your time.
 
 ## References
 
-* *Ada New Media*, https://adanewmedia.org/
+* *Ada New Media*, https://adanewmedia.org/.
 * Agre, Phil (1997) "Toward a Critical Technical Practice: Lessons Learned in Trying to Reform AI," https://web.archive.org/web/20040203070641/http://polaris.gseis.ucla.edu/pagre/critical.html.
 * Ali, Syed Mustafa (2016) "A Brief Introduction to Decolonial Computing," https://bit.ly/2I8pmtP.
 * Aneesh, A. (2006) *Virtual Migration: The Programming of Globalization*, https://www.dukeupress.edu/Virtual-Migration.
